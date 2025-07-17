@@ -191,7 +191,7 @@ folder_path = r'D:\tableau'
 
 host = 'localhost'
 user = 'root'
-password = 'Anusha@95245'
+password = 'Anusha@9525'
 database = 'stat_amfi_project'
 
 
